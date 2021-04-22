@@ -2,6 +2,7 @@
 \
 This program is to set up a very simple new program environment on your Linux machine. (still W.I.P)\
 It's very simple and straight forward.\
+&nbsp
 Imagine you have a directory named e.g "programs" where my program is in.\
 Now, when you execute it, it'll prompt for the project name.\
 If you type in e.g "Hello_World" It'll make a "Hello_World" subdirectory in the directory "programs"\
